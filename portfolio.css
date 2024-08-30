@@ -14,7 +14,7 @@
     
 }
 .banner{
-    background-image: url("https://img.freepik.com/premium-photo/3d-cinema-filmstrip-reel-with-clapperboard-blue-background-cinematic-enthusiasts_444642-26751.jpg?ga=GA1.1.762728526.1724479844&semt=ais_hybrid");
+    background-image: url("https://img.freepik.com/premium-photo/group-friends-anxiously-watching-crucial-moment-game-lively-bar_889272-10950.jpg?ga=GA1.1.762728526.1724479844&semt=ais_hybrid");
     background-size: cover;
     background-position: center center;
     max-width: 100%;
@@ -25,5 +25,27 @@
     display: flex;
     overflow-y: hidden;
     overflow-x: scroll;
+    margin: 1% 0.5%
     
+}
+.posters::-webkit-scrollbar{
+    display: none;
+
+}
+.poster{
+    margin: 0% 0.5%;
+    border-radius: 0.4%;
+}
+h1{
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:13px;
+    padding-top:10px;
+    color:red;
+}
+h3{
+    text-align: center;
+    font-weight: 400;
+    font-size: 0.9rem;
+    padding:2% 0%
 }
