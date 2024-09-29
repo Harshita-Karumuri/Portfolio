@@ -10,7 +10,7 @@
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
     filter:drop-shadow(2px 2px 10px rgb(70, 123, 158));
-    color:rgb(0, 145, 255);
+    color:rgb(20, 92, 147);
     
 }
 .banner{
@@ -30,8 +30,9 @@
 }
 .posters::-webkit-scrollbar{
     display: none;
-
 }
+
+
 .poster{
     margin: 0% 0.5%;
     border-radius: 0.4%;
